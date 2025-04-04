@@ -1,0 +1,13 @@
+{
+  "testnet": {
+    "nftx": {
+      "code_id": 1152,
+      "addresses": {
+        "default": "osmo1x77mhnglh406gzsrq6pk0syzj8305524x07n9qwa2dcrcxqpar5seejjhz"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
